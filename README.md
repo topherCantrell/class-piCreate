@@ -21,16 +21,8 @@ The guide includes wiring diagrams and links to buy the parts.
 
 ## Learn the Software
 
-[Follow this link](lib) to my Python library for controlling the create robot. The guide shows how to install the software on you PC
-and Raspberry Pi. It shows how to connect remotely through wifi using Putty or the Eclipse IDE.
-
-## Web Control
-
-[Follow this link](webcontrol) to my web remote control software. The guide shows how to run the web server on the raspberry pi and control
-the robot from a browser on a mobile device (phone or tablet). This is a great platform to take to out-reach events. Put your club flyers on the
-robot and drive it around the event. Invite kids to drive the robot, and talk to them about your club.
-
-The web interface allows scripted control through drag-and-drop commands. Users can try their hand at rudimentary programming challenges.
+[Follow this link](https://github.com/topherCantrell/robots-piCreate) to my Python library for controlling the create robot. The README shows how to 
+install the software on you PC and Raspberry Pi. It shows how to connect remotely through wifi using Putty or the Eclipse IDE.
 
 ## Programming Challenges
 
